@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MarketBackend.TeacherService/MarketBackend.WorkerService.csproj" />
+  <Project Path="ScheduleService/MarketBackend.ScheduleService.csproj" />
+  <Project Path="MarketBackend.AuthService/MarketBackend.AuthService.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@MarketBackend.WorkerService_HostAddress = http://localhost:5232
+
+GET {{MarketBackend.WorkerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ScheduleService\\MarketBackend.ScheduleService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MarketBackend.AuthService\\MarketBackend.AuthService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

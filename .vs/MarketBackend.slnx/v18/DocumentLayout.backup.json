@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F517F6-8E5A-49B3-F097-14C3BECDA2FC}|MarketBackend.AuthService\\MarketBackend.AuthService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F517F6-8E5A-49B3-F097-14C3BECDA2FC}|MarketBackend.AuthService\\MarketBackend.AuthService.csproj|solutionrelative:marketbackend.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F517F6-8E5A-49B3-F097-14C3BECDA2FC}|MarketBackend.AuthService\\MarketBackend.AuthService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91F517F6-8E5A-49B3-F097-14C3BECDA2FC}|MarketBackend.AuthService\\MarketBackend.AuthService.csproj|solutionrelative:marketbackend.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\services\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\services\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\marketbackend.workerservice.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\marketbackend.workerservice.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\data\\workerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\data\\workerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\dtos\\clientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\dtos\\clientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|c:\\users\\franc\\source\\repos\\marketbackend-main\\marketbackend.teacherservice\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EAF92-3F87-77F5-5A28-5450CDA590C4}|MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj|solutionrelative:marketbackend.teacherservice\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "MarketBackend.AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.AuthService\\appsettings.json",
+              "RelativeToolTip": "MarketBackend.AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T09:09:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Services\\IWorkerService.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Services\\IWorkerService.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Services\\IWorkerService.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Services\\IWorkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:59:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarketBackend.WorkerService.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj.Backup.tmp",
+              "RelativeToolTip": "MarketBackend.TeacherService\\MarketBackend.WorkerService.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-19T08:48:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "MarketBackend.AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.AuthService\\Program.cs",
+              "RelativeToolTip": "MarketBackend.AuthService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:36:35.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Program.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Program.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:47:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Models\\Worker.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:59:13.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Services\\WorkerService.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Services\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Services\\WorkerService.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Services\\WorkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:00:41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Data\\WorkerDbContext.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Data\\WorkerDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Data\\WorkerDbContext.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Data\\WorkerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:59:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\DTOs\\ClientsDto.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\DTOs\\ClientsDto.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\DTOs\\ClientsDto.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\DTOs\\ClientsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:43:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:39:29.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Models\\Clients.cs",
+              "RelativeDocumentMoniker": "MarketBackend.TeacherService\\Models\\Clients.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MarketBackend-main\\MarketBackend.TeacherService\\Models\\Clients.cs",
+              "RelativeToolTip": "MarketBackend.TeacherService\\Models\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:42:50.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
